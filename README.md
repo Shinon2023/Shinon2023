@@ -1,5 +1,9 @@
 # 💫 About Me:
-Developing AI to create realistic virtual humans. I've experimented with technologies like Text-to-Speech (TTS) and Voice Conversion (RVC) to enhance the realism of voices and personalities in AI.
+I am a passionate and dedicated software developer specializing in backend system design, algorithms, and full-stack development. With proficiency in JavaScript, TypeScript, and Python, and hands-on experience with Golang and Rust, I am always eager to explore new technologies and tools to expand my skillset. I have a strong foundation in Next.js for frontend development and possess practical experience with backend frameworks such as Nest.js and Elysia.js.
+
+I have worked on engineering simulation projects, utilizing technologies like Next.js, Three.js, and Supabase to simulate various complex scenarios. My knowledge extends to database management with PostgreSQL and Supabase, and I am well-versed in using tools like Linux, Docker, and Git for efficient development workflows.
+
+I thrive on learning new things and enjoy tackling challenging problems, especially when it comes to backend architecture and algorithms. I am also passionate about AI and aim to grow further in this field, focusing on backend development as I continue to build scalable and efficient systems.
 
 
 # 💻 Tech Stack:
