@@ -20,13 +20,6 @@ I thrive on learning new things and enjoy tackling challenging problems, especia
 🔗 **Following:** 1  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shinon2023&show_icons=true&theme=radical)
 
-## Recent Activity
-
-- Created a new repository: [NewRust](https://github.com/Shinon2023/NewRust)  
-- Pushed updates to [my-site](https://github.com/Shinon2023/my-site)  
-- Started watching [supabase/supabase](https://github.com/supabase/supabase)  
-- Updated repository settings for [activate-office](https://github.com/Shinon2023/activate-office)  
-- Created new branch in [PythonGame](https://github.com/Shinon2023/PythonGame)
 
 ## Latest Blog Posts
 
